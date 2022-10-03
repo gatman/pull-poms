@@ -7,11 +7,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>project-pull</artifactId>
 	<version>0.0.1</version>
-<!-- 
---
--- mvn clean install -f cloud-pull-2021-0-4.pom
---
- -->
 	<dependencyManagement>
 		<dependencies>
 
